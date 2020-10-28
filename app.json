@@ -1,0 +1,12 @@
+{
+  "name": "demo-push-notif",
+  "displayName": "demo-push-notif",
+  "expo": {
+    "name": "demo-push-notif",
+    "slug": "demo-push-notif",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
