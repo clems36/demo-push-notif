@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "563604757636",
+    "firebase_url": "https://accountable-77298.firebaseio.com",
+    "project_id": "accountable-77298",
+    "storage_bucket": "accountable-77298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563604757636:android:66ff8ecf5035431e2276d1",
+        "android_client_info": {
+          "package_name": "com.demopushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563604757636-l6kh5eh9f1jb9ve14go973qb8remj9fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcr2e9qYSv1rjt-yy7IzuOiDvUICC5ddo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563604757636-l6kh5eh9f1jb9ve14go973qb8remj9fn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563604757636-tlda5jdmb3hds8jksun6gtjo8t2jpjnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.get.accountable.stag"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563604757636:android:f7560f144bab2f0d",
+        "android_client_info": {
+          "package_name": "com.hivearts.accountable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563604757636-l6kh5eh9f1jb9ve14go973qb8remj9fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcr2e9qYSv1rjt-yy7IzuOiDvUICC5ddo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563604757636-l6kh5eh9f1jb9ve14go973qb8remj9fn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563604757636-tlda5jdmb3hds8jksun6gtjo8t2jpjnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.get.accountable.stag"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563604757636:android:dc53cd010a2623b02276d1",
+        "android_client_info": {
+          "package_name": "com.hivearts.accountable.stag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563604757636-l6kh5eh9f1jb9ve14go973qb8remj9fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcr2e9qYSv1rjt-yy7IzuOiDvUICC5ddo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563604757636-l6kh5eh9f1jb9ve14go973qb8remj9fn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563604757636-tlda5jdmb3hds8jksun6gtjo8t2jpjnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.get.accountable.stag"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563604757636:android:e58177415cbd01c1",
+        "android_client_info": {
+          "package_name": "com.hivearts.accountablestage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563604757636-l6kh5eh9f1jb9ve14go973qb8remj9fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcr2e9qYSv1rjt-yy7IzuOiDvUICC5ddo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563604757636-l6kh5eh9f1jb9ve14go973qb8remj9fn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563604757636-tlda5jdmb3hds8jksun6gtjo8t2jpjnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.get.accountable.stag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

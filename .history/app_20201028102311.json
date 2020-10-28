@@ -1,0 +1,28 @@
+{
+  "name": "demo-push-notif",
+  "displayName": "demo-push-notif",
+  "expo": {
+    "name": "demo-push-notif",
+    "slug": "demo-push-notif",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.CAMERA_ROLL",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.get.accountable.stag",
+      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
+      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json",
+      "config": {
+        "branch": {
+          "apiKey": "key_live_pmKBG0KtuFhY2Js8MlXeubijtzpuC0Zh"
+        }
+      },
+      "useNextNotificationsApi": true
+    }
+  }
+}

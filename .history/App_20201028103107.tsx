@@ -26,9 +26,7 @@ const styles = StyleSheet.create({
 });
 
 const registerForPushNotificationsAsync = async () => {
-  const token = await Notifications.getExpoPushTokenAsync({
-    experienceId: `@accountable/demo-push-notif`,
-  });
+  const token = await Notifications.getExpoPushTokenAsync();
   console.log("token", token);
   if (Platform.OS === "android") {
     Notifications.setNotificationChannelAsync("default", {

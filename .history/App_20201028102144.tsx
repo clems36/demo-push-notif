@@ -1,19 +1,13 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { Platform, StyleSheet, Text, View } from "react-native";
 import * as Notifications from "expo-notifications";
 
-export default class App extends React.Component {
-  componentDidMount() {
-    registerForPushNotificationsAsync();
-  }
-
-  render() {
-    return (
-      <View style={styles.container}>
-        <Text>Open up App.tsx to start working on your app!</Text>
-      </View>
-    );
-  }
+export default function App() {
+  return (
+    <View style={styles.container}>
+      <Text>Open up App.tsx to start working on your app!</Text>
+    </View>
+  );
 }
 
 const styles = StyleSheet.create({
@@ -26,10 +20,8 @@ const styles = StyleSheet.create({
 });
 
 const registerForPushNotificationsAsync = async () => {
-  const token = await Notifications.getExpoPushTokenAsync({
-    experienceId: `@accountable/demo-push-notif`,
-  });
-  console.log("token", token);
+  const token = await Notifications.getExpoPushTokenAsync();
+
   if (Platform.OS === "android") {
     Notifications.setNotificationChannelAsync("default", {
       name: "default",

@@ -7,7 +7,7 @@
     "version": "1.0.0",
     "assetBundlePatterns": ["**/*"],
     "android": {
-      "package": "com.demopushnotif",
+      "package": "com.demo.notif",
       "useNextNotificationsApi": true
     }
   }
